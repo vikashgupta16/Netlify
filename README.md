@@ -1,6 +1,6 @@
 # 🚀 Netlify Deployments  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/teams/vikashgupta16/sites)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/806ca4d5-6d5a-44b7-9431-8519539bf01a/deploy-status)](https://app.netlify.com/teams/vikashgupta16/sites)  
 
 ## 📌 Overview  
 
