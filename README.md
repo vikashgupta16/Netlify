@@ -10,6 +10,9 @@ This repository contains projects deployed using **Netlify**, a powerful platfor
 
 🔗 **[View all deployed sites](https://app.netlify.com/teams/vikashgupta16/sites)**  
 
+## Netlify Status 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/21779abe-64d9-4ad8-9c63-3f6214cbab27/deploy-status)](https://app.netlify.com/sites/aims-edu/deploys)
+
 ## 📂 Repository Structure  
 
 - `/public` – Static assets and global resources  
